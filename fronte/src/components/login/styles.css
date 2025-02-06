@@ -1,0 +1,18 @@
+.container_login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 500%;
+
+}
+
+.caixa{
+    margin-top: 10px;
+}
+
+.btn{
+    margin-top: 10px;
+    color: white;
+    background-color: black;
+}
