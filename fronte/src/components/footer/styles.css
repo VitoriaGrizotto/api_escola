@@ -1,0 +1,48 @@
+.container_footer{
+    display: flex;
+    bottom: 0;
+    position: fixed;
+    width: 75vw;
+    max-width: 1000px;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    padding-left: 20px;
+    height: 90px;
+    font-size: 10px;
+    border-radius: 5px;
+    box-shadow: 0 5px 15px black;
+}
+
+.footer_content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    max-width: 1000px;
+    margin: auto;
+
+}
+
+.school-info{
+    text-align: left;
+    max-width: 400px;
+}
+
+.social-media{
+    text-align: right;
+
+}
+
+.social-icons{
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.footer-bottom{
+
+}
+
